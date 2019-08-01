@@ -1,0 +1,11 @@
+Alexa Data
+alexa_file_creation.ipynb - contains code for extracting information and saving it to parquet files (Clean and commented)
+alexa_final.ipynb - includes some data processing and the models that were tried (Clean and commented)
+alexa_data_organization.ipynb - first notebook of the project, it is sort of messy and contains everything I did at first
+alexa_df_improvement.ipynb - original work with the edit distance and testing out models, it is also messy, but alexa_final.ipynb is the cleaned up version
+
+Fetch Page
+fetch_page_explore.ipynb - early looks into data, not used later on
+find_words.ipynb - loads data to create vocabulary and save files
+vectorize_final.ipynb - vectorizes the data based on vocabulary and shows the models they were passed into
+other versions of vectorize - show other steps I took in the process, but ultimatley contain similar things
